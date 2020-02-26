@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "Dracula Soft",
+    "code-runner.runInTerminal": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "cmake.configureOnOpen": true,
+    "explorer.autoReveal": false,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.fontFamily": "Monaco, monospace, Menlo, 'Courier New'",
+    "editor.fontSize": 13,
+    "editor.fontLigatures": false,
+    "terminal.integrated.fontSize": 13,
+    "C_Cpp.clang_format_fallbackStyle": "Google",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay"
+}
