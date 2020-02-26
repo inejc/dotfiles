@@ -1,0 +1,9 @@
+{
+  "cmake.sourceDirectory": "${workspaceFolder}/PROJECT_NAME",
+  "cmake.debugConfig": {
+    "stopAtEntry": false,
+    "MIMode": "lldb",
+    "miDebuggerPath": "/Users/nejcilenic/custom-apps/lldb-mi/usr/local/bin/lldb-mi"
+  },
+  "python.pythonPath": "/Users/nejcilenic/.pyenv/versions/PROJECT_NAME/bin/python"
+}
